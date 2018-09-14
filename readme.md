@@ -8,7 +8,7 @@ Simplificando a busca de endereços, tanto com um marcador arrastável ou com um
 
 ## Contribuição
 
-Sinsta-se a vontade para contribuir e melhorar o código.
+Sinta-se a vontade para contribuir e melhorar o código.
 
 
 ## Licença
